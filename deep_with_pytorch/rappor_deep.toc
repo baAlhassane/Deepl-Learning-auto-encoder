@@ -1,0 +1,18 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {0.1}Introduction}{1}%
+\contentsline {section}{\numberline {0.2}Les auto-encodeurs }{1}%
+\contentsline {subsection}{\numberline {0.2.1}Définition \& carctéristiques}{1}%
+\contentsline {subsection}{\numberline {0.2.2}Les types de auto-encodeurs }{2}%
+\contentsline {subsection}{\numberline {0.2.3}Quelle taille de couche et de profondeur ? }{2}%
+\contentsline {subsection}{\numberline {0.2.4}Quel type de fonction de coût et d'unités cachées ? }{2}%
+\contentsline {section}{\numberline {0.3}les concepts et techniques des auto-encodeurs abordés dans ce projet}{3}%
+\contentsline {subsection}{\numberline {0.3.1}Apprentissage de représentation : non supervisé et semi-supervisé}{3}%
+\contentsline {subsection}{\numberline {0.3.2}L'entrainement des modèles probabilistes \& problème d'optimisation}{3}%
+\contentsline {section}{\numberline {0.4}Les auto-encdeurs variatonnels AEV}{3}%
+\contentsline {section}{\numberline {0.5}Retropropagation à travers des opérations aléatoires}{4}%
+\contentsline {subsection}{\numberline {0.5.1}Exemple avec la distribution gaussienne}{4}%
+\contentsline {subsection}{\numberline {0.5.2}Fonctions loss }{4}%
+\contentsline {section}{\numberline {0.6} Le choix des techniques de l'apprentissage et des types de couches utilisées }{5}%
+\contentsline {subsection}{\numberline {0.6.1}Le choix du nombre de couche et des fonction d'activation dans ce projet }{5}%
+\contentsline {section}{\numberline {0.7}Apprentissage }{6}%
+\contentsline {section}{\numberline {0.8}Conclusion }{7}%
